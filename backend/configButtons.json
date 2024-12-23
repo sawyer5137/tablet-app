@@ -1,0 +1,53 @@
+[
+  {
+    "color": "black",
+    "image": "eldenring.png",
+    "text": "Elden Ring",
+    "action": {
+      "type": "steam",
+      "game": "eldenring",
+      "gameId": "1245620"
+    }
+  },
+  {
+    "color": "red",
+    "text": "Youtube",
+    "action": {
+      "type": "url",
+      "url": "https://youtube.com",
+      "program": "firefox"
+    }
+  },
+  {
+    "color": "blue",
+    "image": "shrimp.png",
+    "text": "🍤",
+    "action": {
+      "type": "paste",
+      "text": "🍤"
+    }
+  },
+  {
+    "color": "lightgreen",
+    "image": "bug.png",
+    "text": "🐛",
+    "action": {
+      "type": "paste",
+      "text": "🐛"
+    }
+  },
+  {
+    "color": "blue",
+    "image": "discord.png",
+    "text": "Discord",
+    "action": {
+      "type": "launch",
+      "program": "discord"
+    }
+  },
+  {
+    "color": "orange",
+    "text": "This button does nothing. Don't press it!",
+    "action": {}
+  }
+]
